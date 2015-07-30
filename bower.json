@@ -1,0 +1,19 @@
+{
+  "name": "dev_environment",
+  "version": "0.0.1",
+  "description": "Test Development Environment",
+  "authors": [
+    "Cory Wilson"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.2"
+  }
+}

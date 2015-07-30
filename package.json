@@ -1,0 +1,22 @@
+{
+  "name": "dev_environment",
+  "version": "0.0.1",
+  "description": "Test Development Environment",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.8.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-bower": "^0.0.10",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cory Wilson",
+  "license": "MIT"
+}
